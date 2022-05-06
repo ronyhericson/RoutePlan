@@ -23,6 +23,6 @@
   <br />
   SWAGGER: <hyperlink>http://host.docker.internal:8001/swagger/index.html</hyperlink>
   <br />
-  PGADMIN: <hyperlink>http://host.docker.internal:16543/</hyperlink> User: admin@fluxocaixa.com.br | pwr: admin123
+  PGADMIN: <hyperlink>http://host.docker.internal:16543/</hyperlink> User: admin@routeplan.com.br | pwr: admin123
   <br />
   FRAMEWORK .NET CORE 5.0: <hyperlink>https://dotnet.microsoft.com/en-us/download/dotnet/5.0</hyperlink>
