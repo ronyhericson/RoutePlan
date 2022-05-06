@@ -1,0 +1,44 @@
+version: '3.6'
+
+services:
+  
+  routeplandb:
+    image: postgres
+    container_name: routeplandb
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin       
+    ports:
+      - "5432:5432"      
+    volumes:            
+      - ./docker_postgres_init.sql:/docker-entrypoint-initdb.d/docker_postgres_init.sql         
+    networks:
+      - postgres-network  
+      
+  pgadmin-compose:    
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "admin@routeplan.com.br"
+      PGADMIN_DEFAULT_PASSWORD: "admin123"
+    ports:
+      - "16543:80"
+    volumes:
+      - pgadmin_data:/root/.pgadmin
+    networks:
+      - postgres-network    
+    depends_on:
+      - routeplandb
+
+  portainer:
+    container_name: portainer
+    restart: always
+    ports:
+      - "8081:8000"
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    networks:
+      - postgres-network
+  

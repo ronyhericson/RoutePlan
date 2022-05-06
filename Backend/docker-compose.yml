@@ -1,0 +1,21 @@
+version: '3.6'
+
+services:
+
+  routeplandb:
+    image: postgres
+
+  pgadmin-compose:
+    image: dpage/pgadmin4
+
+  portainer:
+    image: portainer/portainer-ce
+  
+volumes:
+  postgres_data:
+  pgadmin_data:
+  portainer_data:
+
+networks: 
+  postgres-network:
+    driver: bridge
