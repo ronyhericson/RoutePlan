@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using RoutePlan.API.Extensions;
 using RoutePlan.Domain.Interfaces;
 using RoutePlan.Infrastructure.Repositories;
 
@@ -35,7 +36,12 @@ namespace RoutePlan.API
 
             Environment.SetEnvironmentVariable("connectionString", Configuration["DatabaseSettings:ConnectionString"]);
             
-            services.AddControllers();
+            services
+                .AddRepositories()
+                .AddServices()
+                .AddCors()
+                .AddCustomFormat();
+                
             services.AddAutoMapper(typeof(Startup));
 
             services.AddSwaggerGen(c =>

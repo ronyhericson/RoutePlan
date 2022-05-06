@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj": {}
+    "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj": {}
   },
   "projects": {
-    "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj": {
+    "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
         "projectName": "RoutePlan.Domain",
-        "projectPath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
+        "projectPath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
         "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
-        "outputPath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\obj\\",
+        "outputPath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,6 +24,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

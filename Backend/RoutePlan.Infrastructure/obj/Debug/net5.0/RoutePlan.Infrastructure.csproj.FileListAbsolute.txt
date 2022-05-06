@@ -1,0 +1,15 @@
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\RoutePlan.Infrastructure.deps.json
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\RoutePlan.Infrastructure.dll
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\ref\RoutePlan.Infrastructure.dll
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\RoutePlan.Infrastructure.pdb
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\RoutePlan.Domain.dll
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\bin\Debug\net5.0\RoutePlan.Domain.pdb
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.csproj.AssemblyReference.cache
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.AssemblyInfo.cs
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.csproj.CopyComplete
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.dll
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\ref\RoutePlan.Infrastructure.dll
+D:\Projetos\RoutePlan\Backend\RoutePlan.Infrastructure\obj\Debug\net5.0\RoutePlan.Infrastructure.pdb
