@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PIizZpYz+h3qfuRVE1QLzvFoGv4wBo0n4GMMMTHK9CffqiVZoUDF4G/PyHlQDAUIpxh4s+J/f5vjZExb7HqtAQ==",
+  "dgSpecHash": "/IyLoI5auUPmhGrQ2zFwGsAEOiS7Y8KdiHRcDIg4Km2bkcBmzMuf5PSed8QvVQXVi0xkEWxrUpIyMn9Zm8Q00g==",
   "success": true,
   "projectFilePath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Futura\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
