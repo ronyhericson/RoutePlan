@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JwzOB+KAi3t4kvtbdnwR8ETE6oiRjYVmzi/NA2xrV1SnkmnmDUD11m68UTwlayTnCkSocTVZ2tqqcvGv+/TDDA==",
+  "dgSpecHash": "PIizZpYz+h3qfuRVE1QLzvFoGv4wBo0n4GMMMTHK9CffqiVZoUDF4G/PyHlQDAUIpxh4s+J/f5vjZExb7HqtAQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

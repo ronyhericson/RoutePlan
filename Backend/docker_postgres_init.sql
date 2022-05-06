@@ -41,7 +41,7 @@ CREATE SEQUENCE routeplan_id_seq
 	destiny varchar(10), 
 	price numeric(5,2),
 	constraint pk_routeplan_id primary key (id)	
- )
+ );
  
  /* .:: INSERTS ::. DEFAULT */
  

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj": {}
+    "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj": {
+    "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
+        "projectUniqueName": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
         "projectName": "RoutePlan.Infrastructure",
-        "projectPath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
+        "projectPath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\RoutePlan.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\obj\\",
+        "outputPath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,7 +24,6 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +41,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

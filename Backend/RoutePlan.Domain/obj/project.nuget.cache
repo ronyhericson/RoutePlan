@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "57I0Y63S0M/wSXV9CzhFB1cx9XALnxCD1VIFMqScuCu0VNWRMKSMWYqKFMZ77kU6/bMAxgJLOWe4cXz8qMajyw==",
+  "dgSpecHash": "Am3v9v9w9u2r10jxCNSpX63mtdjMX12gEPusaoL9IPFN/iD5RQDyc9MAgE0mFbXZoaw3z3lKIZ5vbLysH/g5dg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Projetos\\RoutePlan\\Backend\\RoutePlan.Domain\\RoutePlan.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Futura\\.nuget\\packages\\npgsql\\5.0.5\\npgsql.5.0.5.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
